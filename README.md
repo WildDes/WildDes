@@ -132,16 +132,13 @@ My main interests include:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/desireortegadaw/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/WildDes">
-    <img src="https://img.shields.io/badge/GitHub-WildDes-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://marioasesores.com">
-    <img src="https://img.shields.io/badge/Website-Mario_Asesores-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
+<p align="center">
+  <i>Always happy to connect, learn and collaborate! 💜</i>
+</p>
 ---
 
 <p align="center">
